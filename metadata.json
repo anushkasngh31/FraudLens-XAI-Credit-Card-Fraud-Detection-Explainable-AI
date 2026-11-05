@@ -1,0 +1,6 @@
+{
+  "name": "FraudLens XAI — Credit Card Fraud Detection & Explainable AI",
+  "description": "Production-grade ML platform demonstrating cost-sensitive credit card fraud detection on 284k transactions using XGBoost, scale_pos_weight class-imbalance handling, decision threshold optimization, and SHAP explainability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
